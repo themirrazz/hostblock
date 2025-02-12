@@ -6,6 +6,7 @@
 ||doubleclick.com
 ||ads.youtube.com
 ||ads.google.com
+||adsense.google.com
 ||analytics.google.com
 ||play.google.com
 ||logs.google.com
@@ -19,6 +20,7 @@
 ||imasdk.googleapis.com
 ||syndicatedsearch.goog
 ||ogads-pa.clients6.google.com
+||eligibility-panelresearch.googlevideo.com
 
 # Apple
 ||metrics.icloud.com
@@ -131,6 +133,10 @@
 # Netflix
 ||logs.netflix.com
 ||log.netflix.com
+||customerevents.netflix.com
+||ichnaea.netflix.com
+||logs.*.netflix.com
+||analytics.netflix.com
 
 # Hulu
 ||metcon.hulu.com
