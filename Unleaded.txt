@@ -96,6 +96,20 @@
 ||twitter.com/i/csp_report
 ||x.com/i/api/graphql/*/DataSaverMode
 ||twitter.com/i/api/graphql/*/DataSaverMode
+||als-svc.nytimes.com
+||a.et.nytimes.com
+||prodregistryv2.org
+||purr.nytimes.com
+||geolocation.forbes.com
+||fuse.forbes.com
+||d.email.forbes.com
+||global.ketchcdn.com/web/v2/log?
+||static.chartbeat.com
+||activate.platform.californiatimes.com/privacy/v1/b/b.rnc?
+||sb.scorecardresearch.com
+||cdn.speedcurve.com
+||aswpsdkus.com
+||cdata.mpio.io
 
 # Sentry
 ||sentry.io
@@ -116,3 +130,9 @@
 ||assets.targetimg1.com/*/AdAddToCartWrapper.3e9da62ac20003d4.js
 ||ads-api.x.com
 ||ads-api.twitter.com
+||media.net
+||adsafeprotected.com
+||cdn.p-n.io
+||adsrvr.org
+||confiant-integrations.net
+||edge.permutive.app
