@@ -126,6 +126,7 @@
 ||adtk-us.temu.com
 ||ftka-us.temu.com
 ||thtka-us.temu.com
+||pftka-us.temu.com
 
 # Netflix
 ||logs.netflix.com
