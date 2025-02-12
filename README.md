@@ -13,3 +13,6 @@ Known Compatibility Issues:
 
 ## Social Away
 Blocks popular social media and chatting apps, including YouTube. Also blocks sending messages via the "Chat" feature in Google Docs, Sheets, and Slides.
+
+## Unleaded
+Blocks ads an trackers, including ones not blocked by uBlock Origin by default.
