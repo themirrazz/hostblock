@@ -1,5 +1,5 @@
 # themirrazz' antitrack services
-These files can be added to your adblocker or content blocker's source list. Works with uBlock Origin, AdGaurd, and Brave's built-in content blocker. The Ultra plan is compatible with DNS-based services as well. Choose the plan that is right for you - all of them are free!!
+These files can be added to your adblocker or content blocker's source list. Works with uBlock Origin, AdGaurd, and Brave's built-in content blocker. Choose the plan that is right for you - all of them are free!!
 
 ## Ultra
 Get ultimate ad and tracking protection at the cost of some functionality. Ultra blocks entire domain names, so some services and features will be entirely unavailable.
