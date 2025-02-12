@@ -125,3 +125,6 @@
 ||themirrazzes.vercel.app/*.webm
 ||themirrazzjp.vercel.app/*.mp4
 ||themirrazzjp.vercel.app/*.webm
+
+# Other iranai
+||redsky.target.com/redsky_aggregations/v1/web/general_recommendations_placement_v1
