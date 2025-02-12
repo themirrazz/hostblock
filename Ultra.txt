@@ -1,161 +1,119 @@
-# Google
+# These should NOT be trusted
+||facebook.com
+||facebook.net
+||fbcdn.io
+||instagram.com
+||meta.com
+||whatsapp.com
+||connect.facebook.net
+||tiktok.com
+||baidu.com
+||temu.com
+
+# We do NOT trust any analytics
 ||analytics.google.com
-||google-analytics.com
 ||googletagmanager.com
-||doubleclick.net
-||doubleclick.com
-||ads.youtube.com
-||ads.google.com
-||adsense.google.com
-||analytics.google.com
-||play.google.com
-||logs.google.com
-||log.google.com
-||logs.youtube.com
-||log.youtube.com
-||csp.withgoogle.com
-||googleadservices.com
-||id.google.com
-||id.youtube.com
-||imasdk.googleapis.com
-||syndicatedsearch.goog
-||ogads-pa.clients6.google.com
-||eligibility-panelresearch.googlevideo.com
-
-# Apple
-||metrics.icloud.com
-||analytics.icloud.com
-||metrics.apple.com
-||securemetrics.apple.com
-
-# DuckDuckGo
-||improving.duckduckgo.com
-
-# Brave
-||analytics.brave.com
-
-# Adobe
-||geo2.adobe.com
-||sstats.adobe.com
+||google-analytics.com
 ||adobedtm.com
-||assets.adobedtm.com
-
-# DemandBase
+||syndicatesearch.goog
+||play.google.com
+||sentry.io
+||datadoghq.com
+||log.google.com
+||logs.google.com
+||customerevents.netflix.com
+||logs.netflix.com
 ||demandbase.com
-
-# Qualatrics
 ||qualtrics.com
-
-# OneTrust
-||geolocation.onetrust.com
-
-# GitHub
-||api.github.com
+||sstats.adobe.com
+||analytics.brave.com
+||improving.duckduckgo.com
 ||collector.github.com
-
-# Microsoft
+||api.github.com
 ||bat.bing.com
 ||browser.events.data.microsoft.com
 ||fpt.microsoft.com
 ||target.microsoft.com
+||events.data.microsoft.com
+||events.microsoft.com
 ||c.bing.com
 ||r.bing.com
 ||th.bing.com
-
-# Yahoo!
-||pr-bh.ybp.yahoo.com
 ||opus.analytics.yahoo.com
-||geo.yahoo.com
+||analytics.yahoo.com
+||cerebro.edna.yahoo.net
+||bats.video.yahoo.com
 ||noa.yahoo.com
 ||udc.yahoo.com
-||bats.video.yahoo.com
-||cerebro.edna.yahoo.net
-||wc.yahoodns.net
-
-# Brightcove
-||metrics.brightcove.com
-
-# Facebook
-||fbcdn.net
-||facebook.com
-||instagram.com
-
-# Reddit
-||w3-reporting.reddit.com
-||id.rlcdn.com
-||matrix.redditspace.com
-||emoji.redditmedia.com
 ||gql-realtime.reddit.com
-
-# Comcast
-||ad-delivery.net
-
-# Ebay
 ||backstory.ebay.com
 ||devicebind.ebay.com
 ||rover.ebay.com
 ||ebayrtm.com
-
-# Windows 96
 ||popeyes.sys36.net
-
-# IPv4 Games
-||ipv4.games
-||ipv4.party
-
-# Amazon
 ||unagi.amazon.com
 ||unagi-na.amazon.com
-||amazon-adsystem.com
 ||fls-na.amazon.com
-
-# DataDogHQ
 ||browser-intake-datadoghq.com
 ||datadoghq-browser-agent.com
-||datadoghq.com
-
-# TikTok
-||mcs-ttp2.us.tiktok.com
-||mcs.tiktokw.us
-||mon16-normal-useast5.tiktokv.us
-||mcs-ttp2.us.tiktok.com
-||metrics.tiktok.com
 ||logs.tiktok.com
-||analytics.tiktok.com
-||ads.tiktok.com
-||tr.tiktok.com
-||ad.tiktok.com
-||click.tiktok.com
-
-# Temu
-||adtk-us.temu.com
+||mcs-ttp2.us.tiktok.com
+||tiktokw.us
+||tiktokv.us
+||tiktokx.us
+||tiktokp.us
+||tiktokz.us
+||tiktoky.us
+||tiktoka.us
+||metrics.tiktok.com
 ||ftka-us.temu.com
 ||thtka-us.temu.com
 ||pftka-us.temu.com
-
-# Netflix
-||logs.netflix.com
-||log.netflix.com
-||customerevents.netflix.com
-||ichnaea.netflix.com
-||logs.*.netflix.com
-||analytics.netflix.com
-
-# Hulu
 ||metcon.hulu.com
 ||vortex.hulu.com
-||ads.hulu.com
-
-# Disney
-||disney.my.sentry.io
-||disney.demdex.com
-||dcf.espn.com
-||sw88.go.com
-||tredir.go.com
-||disney.connections.edge.bamgrid.com
-
-# Demdex
+||demdex.io
 ||demdex.com
+||disney.connections.edge.bamgrid.com
+||tredir.go.com
+||sw88.go.com
+||dcf.espn.com
+||id.rlcdn.com
+||gql-fed.reddit.com
+||sapphire-api.target.com
+||api.target.com/*eventstream?
+||target.com/*/TrackLocation.svg
 
-# Sentry.IO
+# We do NOT trust sentry
+||w3-reporting.reddit.com
+||error-tracking.reddit.com
 ||sentry.io
+||insops.net
+
+# We do NOT trust IP/Geosniffers
+||ipv4.games
+||ipv4.party
+||geolocation.onetrust.com
+||ichnaea.netflix.com
+||ip-api.com
+||api.geoapify.com
+
+# We do NOT trust ads
+||doubleclick.com
+||doubleclick.net
+||ads.google.com
+||ads.youtube.com
+||ad-delivery.net
+||amazon-adsystem.com
+||adtk-us.temu.com
+||ads.hulu.com
+||doubleverify.com
+
+# These CDNs are unnecessary, may be tracked
+||emoji.redditmedia.com
+||styles.redditmedia.com
+||themirrazzen.vercel.app/*.mp4
+||themirrazzen.vercel.app/*.webm
+||themirrazzes.vercel.app/*.mp4
+||themirrazzes.vercel.app/*.webm
+||themirrazzjp.vercel.app/*.mp4
+||themirrazzjp.vercel.app/*.webm
