@@ -7,3 +7,6 @@ Known Compatibility Issues:
 * GitHub VSCode Editor (github.dev) cannot work, please use the regular GitHub website.
 * The Google Analytics dashboard will be completely unavailable.
 * Due to Meta having a history of privacy issues, Facebook and Instagram are completely blocked.
+
+## Social Away
+Blocks popular social media and chatting apps, including YouTube. Also blocks sending messages via the "Chat" feature in Google Docs, Sheets, and Slides.
