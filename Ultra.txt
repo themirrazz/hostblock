@@ -107,7 +107,6 @@
 ||walmart.com/swag/graphql
 ||i5.walmartimages.com/*/ads_core_hooks_get-is-adblocked-*.js
 ||i5.walmartimages.com/*/ads_*-*.js
-
 ||api.x.com/*/client_event.json
 ||api.twitter.com/*/client_event.json
 ||api.x.com/*/error_log.json
@@ -120,12 +119,28 @@
 ||twitter.com/i/csp_report
 ||x.com/i/*/DataSaverMode
 ||twitter.com/i/*/DataSaverMode
+||als-svc.nytimes.com
+||a.et.nytimes.com
+||*.nytimes.com/track
+||*.nytimes.com//status
+||prodregistryv2.org
+||purr.nytimes.com
+||fuse.forbes.com
+||d.email.forbes.com
+||global.ketchcdn.com/web/v2/log?
+||chartbeat.com
+||activate.platform.californiatimes.com
+||scorecardresearch.com
+||cdn.speedcurve.com
+||aswpsdkus.com
+||mpio.io
 
 # We do NOT trust sentry
 ||w3-reporting.reddit.com
 ||error-tracking.reddit.com
 ||sentry.io
 ||insops.net
+||speedcurve.com
 
 # We do NOT trust IP/Geosniffers
 ||ipv4.games
@@ -134,8 +149,13 @@
 ||ichnaea.netflix.com
 ||ip-api.com
 ||api.geoapify.com
+||geolocation.forbes.com
+||global.ketchcdn.com/web/v3/ip
+||geo.privacymanager.io
+||edge-geo.nc0.io
 
 # We do NOT trust ads
+||ads.brave.org
 ||doubleclick.com
 ||doubleclick.net
 ||ads.google.com
@@ -148,6 +168,12 @@
 ||assets.targetimg1.com/*/AdAddToCartWrapper.3e9da62ac20003d4.js
 ||ads-api.x.com
 ||ads-api.twitter.com
+||media.net
+||adsafeprotected.com
+||p-n.io
+||adsrvr.org
+||confiant-integrations.net
+||permutive.app
 
 # These CDNs are unnecessary, may be tracked
 ||emoji.redditmedia.com
@@ -161,3 +187,5 @@
 ||redsky.target.com/*/general_recommendations_placement_v1
 ||docs.google.com/*/chat
 ||youtube.com$third-party
+||*.nyt.com/newsgraphics/homepage/TeamsAndLeagues.json
+||nc0.co
