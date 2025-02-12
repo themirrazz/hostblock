@@ -2,9 +2,15 @@
 ||googletagmanager.com
 ||analytics.google.com$third-party
 ||google-analytics.com
+||googlesyndication.com
 ||syndicatesearch.goog
 ||log.google.com
 ||logs.google.com
+||google.com/log
+||*.google.com/log
+||waa-pa.clients6.google.com/$rpc/google.internal.waa.v1.Waa/Ping
+||google.com/gen_204
+||csp.withgoogle
 ||adobedtm.com
 ||sstats.adobe.com
 ||connect.facebook.com$third-party
@@ -73,6 +79,23 @@
 ||geolocation.onetrust.com
 ||ichnaea.netflix.com
 ||api.geoapify.com
+||i5.walmartimages.com/*/beacon.js
+||i5.walmartimages.com/*/ads_ui_video_vast-video-player.*.js
+||csp.walmart.com
+||walmart.com/swag/graphql
+||i5.walmartimages.com/*/ads_core_hooks_get-is-adblocked-*.js
+||api.x.com/*/client_event.json
+||api.twitter.com/*/client_event.json
+||api.x.com/*/error_log.json
+||api.twitter.com/*/error_log.json
+||api.x.com/*/jot/ces/*
+||api.twitter.com/*/jot/ces/*
+||ads.twitter.com
+||ads.x.com
+||x.com/i/csp_report
+||twitter.com/i/csp_report
+||x.com/i/api/graphql/*/DataSaverMode
+||twitter.com/i/api/graphql/*/DataSaverMode
 
 # Sentry
 ||sentry.io
@@ -91,3 +114,5 @@
 ||ads.hulu.com
 ||doubleverify.com
 ||assets.targetimg1.com/*/AdAddToCartWrapper.3e9da62ac20003d4.js
+||ads-api.x.com
+||ads-api.twitter.com
