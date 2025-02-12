@@ -7,6 +7,9 @@ Known Compatibility Issues:
 * GitHub VSCode Editor (github.dev) cannot work, please use the regular GitHub website.
 * The Google Analytics dashboard will be completely unavailable.
 * Due to Meta having a history of privacy issues, Facebook and Instagram are completely blocked.
+* Due to collecting very sensitive information, Baidu search engine is blocked.
+* Due to possibly collecting sensitive information, TikTok is also blocked.
+* Some apps and websites might not work as expected. You have been WARNED
 
 ## Social Away
 Blocks popular social media and chatting apps, including YouTube. Also blocks sending messages via the "Chat" feature in Google Docs, Sheets, and Slides.
