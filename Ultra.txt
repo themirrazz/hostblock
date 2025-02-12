@@ -79,9 +79,17 @@
 ||dcf.espn.com
 ||id.rlcdn.com
 ||gql-fed.reddit.com
+||pub.doubleverify.com
+||kayample.com
 ||sapphire-api.target.com
-||api.target.com/*eventstream?
-||target.com/*/TrackLocation.svg
+||api.target.com/*/eventstream?
+||api.target.com/consumers/v1?eventType=web-vitals
+||api.target.com/consumers/v1?*&eventType=web-vitals
+||api.target.com/firefly_events/*/content_impression
+||api.target.com/*/traces?
+||assets.targetimg1.com/*/web-pixelator-*.&*js
+||assets.targetimg1.com/ssx/ssx.mod.js?async
+||assets.targetimg1.com/*/AdAddToCartWrapper.3e9da62ac20003d4.js
 
 # We do NOT trust sentry
 ||w3-reporting.reddit.com
