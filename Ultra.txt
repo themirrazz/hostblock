@@ -189,3 +189,5 @@
 ||youtube.com$third-party
 ||*.nyt.com/newsgraphics/homepage/TeamsAndLeagues.json
 ||nc0.co
+||ytimg.com
+||uploads.scratch.mit.edu
