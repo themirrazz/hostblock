@@ -19,7 +19,7 @@
 
 # We do NOT trust any analytics
 ||googletagmanager.com
-||analytics.google.com$third-party
+||analytics.google.com
 ||google-analytics.com
 ||googlesyndication.com
 ||syndicatesearch.goog
