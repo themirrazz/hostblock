@@ -79,11 +79,15 @@
 ||dcf.espn.com
 ||id.rlcdn.com
 ||gql-fed.reddit.com
+||sapphire-api.target.com
+||api.target.com/*eventstream?
+||target.com/*/TrackLocation.svg
 
 # We do NOT trust sentry
 ||w3-reporting.reddit.com
 ||error-tracking.reddit.com
 ||sentry.io
+||insops.net
 
 # We do NOT trust IP/Geosniffers
 ||ipv4.games
@@ -102,7 +106,14 @@
 ||amazon-adsystem.com
 ||adtk-us.temu.com
 ||ads.hulu.com
+||doubleverify.com
 
 # These CDNs are unnecessary, may be tracked
 ||emoji.redditmedia.com
 ||styles.redditmedia.com
+||themirrazzen.vercel.app/*.mp4
+||themirrazzen.vercel.app/*.webm
+||themirrazzes.vercel.app/*.mp4
+||themirrazzes.vercel.app/*.webm
+||themirrazzjp.vercel.app/*.mp4
+||themirrazzjp.vercel.app/*.webm
