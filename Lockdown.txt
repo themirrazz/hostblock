@@ -69,10 +69,29 @@
 ||ftka-us.temu.com
 ||thtka-us.temu.com
 ||pftka-us.temu.com
+||metcon.hulu.com
+||vortex.hulu.com
+||demdex.io
+||demdex.com
+||disney.connections.edge.bamgrid.com
+||tredir.go.com
+||sw88.go.com
+||dcf.espn.com
+||id.rlcdn.com
+||gql-fed.reddit.com
 
 # We do NOT trust sentry
 ||w3-reporting.reddit.com
+||error-tracking.reddit.com
 ||sentry.io
+
+# We do NOT trust IP/Geosniffers
+||ipv4.games
+||ipv4.party
+||geolocation.onetrust.com
+||ichnaea.netflix.com
+||ip-api.com
+||api.geoapify.com
 
 # We do NOT trust ads
 ||doubleclick.com
@@ -82,3 +101,8 @@
 ||ad-delivery.net
 ||amazon-adsystem.com
 ||adtk-us.temu.com
+||ads.hulu.com
+
+# These CDNs are unnecessary, may be tracked
+||emoji.redditmedia.com
+||styles.redditmedia.com
