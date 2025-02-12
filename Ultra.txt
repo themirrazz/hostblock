@@ -123,6 +123,9 @@
 ||logs.tiktok.com
 ||analytics.tiktok.com
 ||ads.tiktok.com
+||tr.tiktok.com
+||ad.tiktok.com
+||click.tiktok.com
 
 # Temu
 ||adtk-us.temu.com
